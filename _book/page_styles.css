@@ -1,0 +1,12 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "shucang";
+    src: local("微软雅黑"), local("宋体"), url(OPS/css/msyh.ttf)
+    }
+@font-face {
+    font-family: "shucang4sony";
+    src: url(res:///opt/sony/ebook/FONT/tt0003m_.ttf)
+    }
